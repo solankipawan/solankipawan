@@ -14,7 +14,7 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
 <li> Love to play cricket</li>
 </ul>
 
- 📫Connect me here:<br />
+<h3> 📫Connect me here: </h3>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
