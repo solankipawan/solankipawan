@@ -29,11 +29,11 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
       <img src="https://img.shields.io/badge/Pawan Solanki-30302f?style=flat&logo=Gmail">
 
   </a>
-<p>
+
   <h1> My Skills: </h1>
+  <p>
   <img src="https://img.shields.io/badge/Java-30302f?style=flat&logo=java"> <img src="https://img.shields.io/badge/c--lang-30302f?style=flat&logo=c">
     <img src="https://img.shields.io/badge/python-30302f?style=flat&logo=python">
-<br>
   <img src="https://img.shields.io/badge/HTML5-30302f?style=flat&logo=HTML5">
     <img src="https://img.shields.io/badge/CSS3-30302f?style=flat&logo=CSS3">
     <img src="https://img.shields.io/badge/Bootstrap-30302f?style=flat&logo=Bootstrap">
