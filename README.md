@@ -17,7 +17,7 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
 <h3> 📫Connect me here: </h3>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
+  <a href="https://www.linkedin.com/in/pawan-solanki/">
     <img src="https://img.shields.io/badge/Pawan-Solanki-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/p_one_16_key">
