@@ -20,10 +20,10 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
   <a href="https://www.linkedin.com/in/pawan-solanki/">
     <img src="https://img.shields.io/badge/Pawan-Solanki-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/p_one_16_key">
+  <a href="https://twitter.com/pawansolanki29">
     <img src="https://img.shields.io/badge/@Pawan Solanki-30302f?style=flat&logo=twitter">
   </a>
- <a href="https://www.instagram.com/p_one_16_key/">
+ <a href="https://www.instagram.com/solankipawan29/">
     <img src="https://img.shields.io/badge/Pawan Solanki-30302f?style=flat&logo=instagram">
     <a href="mailto:pksaug2529@gmail.com">
       <img src="https://img.shields.io/badge/Pawan Solanki-30302f?style=flat&logo=Gmail">
