@@ -4,7 +4,6 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
 “Programs must be written for people to read, and only incidentally for machines to execute.” <br />
 👨‍Let's Learn and grow<br />
 ⚡ Fun fact about me: 
-<li> Vegetarian </li>
 <li> Early morning person </li> 
 <li> Tech enthusiast </li>
 <li> Programming Nerd </li>
