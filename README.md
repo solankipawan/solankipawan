@@ -28,7 +28,7 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
       <img src="https://img.shields.io/badge/Pawan Solanki-30302f?style=flat&logo=Gmail">
 
   </a>
-  <h1> My Skills: </h1>
+  <h1> Languages and Tools: </h1>
   <p>
   <img src="https://img.shields.io/badge/Java-30302f?style=flat&logo=java"> <img src="https://img.shields.io/badge/c--lang-30302f?style=flat&logo=c">
     <img src="https://img.shields.io/badge/python-30302f?style=flat&logo=python">
@@ -41,12 +41,18 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
     <img src="https://img.shields.io/badge/Sass-30302f?style=flat&logo=sass">
 
   <br>
-    <img src="https://img.shields.io/badge/MySql-30302f?style=flat&logo=Mysql">
-      <img src="https://img.shields.io/badge/git-30302f?style=flat&logo=git">
-      <img src="https://img.shields.io/badge/Github-30302f?style=flat&logo=github">
+  <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+   <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </p>
 
 </p>
+
+---
+<img align="left" alt="Pawan Solanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=solankipawan&show_icons=true&hide_border=true" />
+
 
  
