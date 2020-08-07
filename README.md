@@ -39,6 +39,7 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
 
   <img src="https://img.shields.io/badge/JavaScript-30302f?style=flat&logo=javascript"> 
     <img src="https://img.shields.io/badge/Sass-30302f?style=flat&logo=sass">
+    
 
   <br>
   <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -52,7 +53,11 @@ I am a 3rd Year undergraduate from IIITV 🎓.<br>
 </p>
 
 ---
-<img align="left" alt="Pawan Solanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=solankipawan&show_icons=true&hide_border=true" />
-
+<a href="https://github.com/solankipawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankipawan&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/solankipawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=solankipawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
 
  
