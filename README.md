@@ -1,6 +1,6 @@
 <h1> Hi! I'm Pawan<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
  <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-I am a 3rd Year undergraduate from IIITV 🎓.<br>
+I am a 4th Year undergraduate from IIITV 🎓.<br>
 “Programs must be written for people to read, and only incidentally for machines to execute.” <br />
 👨‍Let's Learn and grow<br />
 ⚡ Fun fact about me: 
